@@ -2,7 +2,7 @@
 
 ## `greprs` example code of Rust book
 
-### `greprs` it is
+### `greprs` is
 
 `greprs` is resembling `grep` command with Rust. This code is from the Rust book.
 
