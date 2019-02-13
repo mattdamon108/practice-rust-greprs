@@ -1,4 +1,4 @@
-# Practice of RUST - greprs
+# Practice of RUST - `greprs`
 
 ## `greprs` example code of Rust book
 
